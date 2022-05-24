@@ -26,10 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ValeUlloaM/ToxicLegacy.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ValeUlloaM/ToxicLegacy/issues"
-  },
-  "homepage": "https://github.com/ValeUlloaM/ToxicLegacy#readme"
+    "url": "git+https://github.com/JPSanin/la-calle-viva.git"
+  }
+  
 }
